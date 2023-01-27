@@ -28,4 +28,4 @@ Run these commands:
 terraform init
 terraform apply -auto-approve
 ```
-Now you can upload some files that contain Error, error or ERROR in name to S3 bucket. And CloudWatch alarm will be triggered
+Now you can upload some files that contain "Error", "error" or "ERROR" in their name to S3 bucket and CloudWatch alarm will be triggered
